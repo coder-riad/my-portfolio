@@ -1,5 +1,5 @@
 # my-portfolio-responsive-website
-Screen Shorts:
+Screenshots:
 ![Screenshot (31)](https://github.com/coder-riad/IT-Course-Bootstrap-Website/assets/119622927/21f7721b-890f-4635-8d9c-feb136bf3843)
 ![Screenshot (30)](https://github.com/coder-riad/IT-Course-Bootstrap-Website/assets/119622927/c1b1521a-3af9-4e16-9489-bfd08e717986)
 ![Screenshot (32)](https://github.com/coder-riad/IT-Course-Bootstrap-Website/assets/119622927/0e70f9c6-bff0-466f-ab03-6aa85298924a)
